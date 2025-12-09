@@ -2,7 +2,7 @@
 An codebase intelligence assistant to analyze .NET and Python codebases through static code parsing for impact analysis and dependency discovery, & knowledge retrieval
 
 ## Demo
-![Image](https://github.com/user-attachments/assets/cb5bada0-179a-4e28-852c-8d75f38405bd)
+![Image](https://github.com/user-attachments/assets/8f096206-72fd-4b18-ba72-61eb2777e7de)
 
 ## HIGH LEVEL ARCHITECTURE
 ### OVERVIEW
